@@ -1,8 +1,8 @@
-# Zyralia
+  # Lyza Ai  
 
 A Rust-based AI agent implementation using [rig](https://github.com/0xPlaygrounds/rig) for AI functionality, powering an autonomous social media presence on X (formerly Twitter).
 
-Follow our AI agent: [[[@Zyralia_Rig]((https://x.com/Zyralia_Rig)]
+Follow our AI agent: [[[@lyzaai_solana](((https://x.com/lyzaai_solana))]
 
 ## Overview
 
@@ -47,7 +47,7 @@ This project implements an AI-powered social media agent that autonomously engag
 ## Installation
 
 1. Clone the repository:
-git clone https:(https://github.com/Zyralia0x/Zyralia_rig/tree/main/Zyralia-main)
+git clone https:[(https://github.com/lyzaaiagent/Lyza-Ai/)tree/main/Zyralia-main)
 cd tana
 
 2. Create a `.env` file with required credentials:
