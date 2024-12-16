@@ -4,6 +4,22 @@ A Rust-based AI agent implementation using [rig](https://github.com/0xPlayground
 
 Follow our AI agent: [[[@lyzaai_solana](((https://x.com/lyzaai_solana))]
 
+
+
+
+
+
+![lyza](https://github.com/user-attachments/assets/ce6f76e7-cd24-4fad-bd42-529c090a7e94)
+
+
+
+
+
+
+
+
+
+
 ## Overview
 
 This project implements an AI-powered social media agent that autonomously engages on social media platforms while maintaining consistent personality traits and natural interaction patterns. Built with Rust for performance and reliability, it leverages the rig framework for core AI functionality.
@@ -47,7 +63,7 @@ This project implements an AI-powered social media agent that autonomously engag
 ## Installation
 
 1. Clone the repository:
-git clone https:[(https://github.com/lyzaaiagent/Lyza-Ai/)tree/main/Zyralia-main)
+git clone https:[(https://github.com/lyzaaiagent/Lyza-Ai/)
 cd tana
 
 2. Create a `.env` file with required credentials:
